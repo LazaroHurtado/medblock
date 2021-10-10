@@ -1,0 +1,11 @@
+/Users/lazarohurtado/Documents/projects/Rust/safecheck/backend/target/debug/deps/ubyte-2850ab6375ebd98a.rmeta: /Users/lazarohurtado/.cargo/registry/src/github.com-1ecc6299db9ec823/ubyte-0.10.1/src/lib.rs /Users/lazarohurtado/.cargo/registry/src/github.com-1ecc6299db9ec823/ubyte-0.10.1/src/arithmetic.rs /Users/lazarohurtado/.cargo/registry/src/github.com-1ecc6299db9ec823/ubyte-0.10.1/src/byte_unit.rs /Users/lazarohurtado/.cargo/registry/src/github.com-1ecc6299db9ec823/ubyte-0.10.1/src/parse.rs /Users/lazarohurtado/.cargo/registry/src/github.com-1ecc6299db9ec823/ubyte-0.10.1/src/ser_de.rs
+
+/Users/lazarohurtado/Documents/projects/Rust/safecheck/backend/target/debug/deps/libubyte-2850ab6375ebd98a.rlib: /Users/lazarohurtado/.cargo/registry/src/github.com-1ecc6299db9ec823/ubyte-0.10.1/src/lib.rs /Users/lazarohurtado/.cargo/registry/src/github.com-1ecc6299db9ec823/ubyte-0.10.1/src/arithmetic.rs /Users/lazarohurtado/.cargo/registry/src/github.com-1ecc6299db9ec823/ubyte-0.10.1/src/byte_unit.rs /Users/lazarohurtado/.cargo/registry/src/github.com-1ecc6299db9ec823/ubyte-0.10.1/src/parse.rs /Users/lazarohurtado/.cargo/registry/src/github.com-1ecc6299db9ec823/ubyte-0.10.1/src/ser_de.rs
+
+/Users/lazarohurtado/Documents/projects/Rust/safecheck/backend/target/debug/deps/ubyte-2850ab6375ebd98a.d: /Users/lazarohurtado/.cargo/registry/src/github.com-1ecc6299db9ec823/ubyte-0.10.1/src/lib.rs /Users/lazarohurtado/.cargo/registry/src/github.com-1ecc6299db9ec823/ubyte-0.10.1/src/arithmetic.rs /Users/lazarohurtado/.cargo/registry/src/github.com-1ecc6299db9ec823/ubyte-0.10.1/src/byte_unit.rs /Users/lazarohurtado/.cargo/registry/src/github.com-1ecc6299db9ec823/ubyte-0.10.1/src/parse.rs /Users/lazarohurtado/.cargo/registry/src/github.com-1ecc6299db9ec823/ubyte-0.10.1/src/ser_de.rs
+
+/Users/lazarohurtado/.cargo/registry/src/github.com-1ecc6299db9ec823/ubyte-0.10.1/src/lib.rs:
+/Users/lazarohurtado/.cargo/registry/src/github.com-1ecc6299db9ec823/ubyte-0.10.1/src/arithmetic.rs:
+/Users/lazarohurtado/.cargo/registry/src/github.com-1ecc6299db9ec823/ubyte-0.10.1/src/byte_unit.rs:
+/Users/lazarohurtado/.cargo/registry/src/github.com-1ecc6299db9ec823/ubyte-0.10.1/src/parse.rs:
+/Users/lazarohurtado/.cargo/registry/src/github.com-1ecc6299db9ec823/ubyte-0.10.1/src/ser_de.rs:

@@ -1,0 +1,11 @@
+/Users/lazarohurtado/Documents/projects/Rust/safecheck/backend/target/debug/deps/uncased-bcd4d1cb0d59ac41.rmeta: /Users/lazarohurtado/.cargo/registry/src/github.com-1ecc6299db9ec823/uncased-0.9.6/src/lib.rs /Users/lazarohurtado/.cargo/registry/src/github.com-1ecc6299db9ec823/uncased-0.9.6/src/serde.rs /Users/lazarohurtado/.cargo/registry/src/github.com-1ecc6299db9ec823/uncased-0.9.6/src/owned.rs /Users/lazarohurtado/.cargo/registry/src/github.com-1ecc6299db9ec823/uncased-0.9.6/src/borrowed.rs /Users/lazarohurtado/.cargo/registry/src/github.com-1ecc6299db9ec823/uncased-0.9.6/src/as_uncased.rs
+
+/Users/lazarohurtado/Documents/projects/Rust/safecheck/backend/target/debug/deps/libuncased-bcd4d1cb0d59ac41.rlib: /Users/lazarohurtado/.cargo/registry/src/github.com-1ecc6299db9ec823/uncased-0.9.6/src/lib.rs /Users/lazarohurtado/.cargo/registry/src/github.com-1ecc6299db9ec823/uncased-0.9.6/src/serde.rs /Users/lazarohurtado/.cargo/registry/src/github.com-1ecc6299db9ec823/uncased-0.9.6/src/owned.rs /Users/lazarohurtado/.cargo/registry/src/github.com-1ecc6299db9ec823/uncased-0.9.6/src/borrowed.rs /Users/lazarohurtado/.cargo/registry/src/github.com-1ecc6299db9ec823/uncased-0.9.6/src/as_uncased.rs
+
+/Users/lazarohurtado/Documents/projects/Rust/safecheck/backend/target/debug/deps/uncased-bcd4d1cb0d59ac41.d: /Users/lazarohurtado/.cargo/registry/src/github.com-1ecc6299db9ec823/uncased-0.9.6/src/lib.rs /Users/lazarohurtado/.cargo/registry/src/github.com-1ecc6299db9ec823/uncased-0.9.6/src/serde.rs /Users/lazarohurtado/.cargo/registry/src/github.com-1ecc6299db9ec823/uncased-0.9.6/src/owned.rs /Users/lazarohurtado/.cargo/registry/src/github.com-1ecc6299db9ec823/uncased-0.9.6/src/borrowed.rs /Users/lazarohurtado/.cargo/registry/src/github.com-1ecc6299db9ec823/uncased-0.9.6/src/as_uncased.rs
+
+/Users/lazarohurtado/.cargo/registry/src/github.com-1ecc6299db9ec823/uncased-0.9.6/src/lib.rs:
+/Users/lazarohurtado/.cargo/registry/src/github.com-1ecc6299db9ec823/uncased-0.9.6/src/serde.rs:
+/Users/lazarohurtado/.cargo/registry/src/github.com-1ecc6299db9ec823/uncased-0.9.6/src/owned.rs:
+/Users/lazarohurtado/.cargo/registry/src/github.com-1ecc6299db9ec823/uncased-0.9.6/src/borrowed.rs:
+/Users/lazarohurtado/.cargo/registry/src/github.com-1ecc6299db9ec823/uncased-0.9.6/src/as_uncased.rs:
